@@ -12,6 +12,8 @@ Slides and resources from CPPP 2021
 
 ### Produce
 
+[Exceptional C++ - Victor Ciura](exceptional_cxx-victor_ciura)
+
 ### Progress
 
 ## Others
