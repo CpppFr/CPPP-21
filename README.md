@@ -20,6 +20,8 @@ Slides and resources from CPPP 2021
 
 ### Progress
 
+[Constructors and destructors: A few things you might want to know - Pavel Novikov](constructors_and_destructors-pavel_novikov)
+
 [Performance is not (only) about micro-optimizations! - Clément Grégoire](perf_not_only_about_microopt-clement_gregoire)
 
 [Correctly Calculating `min`, `max`, and More - Walter E Brown](correctly_calculating_min_max_and_more-walter_e_brown)
