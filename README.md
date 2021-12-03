@@ -18,4 +18,6 @@ Slides and resources from CPPP 2021
 
 ### Progress
 
+[Correctly Calculating `min`, `max`, and More - Walter E Brown](correctly_calculating_min_max_and_more-walter_e_brown)
+
 ## Others
