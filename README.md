@@ -10,6 +10,8 @@ Slides and resources from CPPP 2021
 
 ### Push Forward
 
+[Sandbox Games: Using WebAssembly and C++ to make a simple game - Ólafur Waage](webassembly-olafur_waage)
+
 ### Produce
 
 [Exceptional C++ - Victor Ciura](exceptional_cxx-victor_ciura)
