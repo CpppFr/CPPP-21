@@ -14,4 +14,4 @@ https://github.com/JPenuchot/ctbench
 
 ## Backup PDF export
 
-[ctbench: compile time benchmarking for Clang - Jules Pénuchot] (export.pdf)
+[ctbench: compile time benchmarking for Clang - Jules Pénuchot](export.pdf)

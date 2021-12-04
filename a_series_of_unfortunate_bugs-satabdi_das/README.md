@@ -6,4 +6,4 @@ Any C++ developer working in a large codebase is very likely to experience weird
 
 ## Slides
 
-[A Series of Unfortunate Bugs - Satabdi Das] (slides.pdf)
+[A Series of Unfortunate Bugs - Satabdi Das](slides.pdf)
