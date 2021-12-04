@@ -12,6 +12,10 @@ https://mattgodbolt.github.io/cppp-fr-superpower/
 
 https://github.com/mattgodbolt/cppp-fr-superpower
 
+## Xania MUD sources
+
+https://github.com/mattgodbolt/xania
+
 ## Backup PDF export
 
 [C++'s Superpower - Matt Godbolt](export.pdf)
