@@ -20,6 +20,8 @@ Slides and resources from CPPP 2021
 
 [How I learned to stop worrying and love MISRA - Loïc Joly](how_i_learned_to_stop_worrying_and_love_misra-loic_joly)
 
+[The Performance Price of Virtual Functions - Ivica Bogosavljevic](the_performance_price_of_virtual_functions-ivica_bogosavljevic)
+
 ### Progress
 
 [A Series of Unfortunate Bugs - Satabdi Das](a_series_of_unfortunate_bugs-satabdi_das)
