@@ -6,4 +6,4 @@
 
 ## Slides
 
-[The Performance Price of Virtual Functions - Ivica Bogosavljevic] (slides.pdf)
+[The Performance Price of Virtual Functions - Ivica Bogosavljevic](slides.pdf)
