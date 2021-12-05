@@ -12,9 +12,11 @@ Slides and resources from CPPP 2021
 
 [ctbench: compile time benchmarking for Clang - Jules Pénuchot](ctbench_compile_time_benchmarking_for_clang-jules_pénuchot)
 
-[Sandbox Games: Using WebAssembly and C++ to make a simple game - Ólafur Waage](webassembly-olafur_waage)
+[The foundation of C++ atomics: The knowledge you need to correctly use C++ atomics - Filipe Mulonde](the_foundation_of_cxx_atomics_the_knowledge_you_need_to_correctly_use_cxx_atomics-filipe_mulonde)
 
 [The concepts of concepts - Sandor Dargo](the_concepts_of_concepts-sandor_dargo)
+
+[Sandbox Games: Using WebAssembly and C++ to make a simple game - Ólafur Waage](webassembly-olafur_waage)
 
 [Using C++ as a C on steroids - Serge Guelton](using_cxx_as_a_c_on_steroids-serge_guelton)
 
