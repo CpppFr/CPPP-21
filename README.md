@@ -16,6 +16,8 @@ Slides and resources from CPPP 2021
 
 [The concepts of concepts - Sandor Dargo](the_concepts_of_concepts-sandor_dargo)
 
+[Using C++ as a C on steroids - Serge Guelton](using_cxx_as_a_c_on_steroids-serge_guelton)
+
 ### Produce
 
 [Exceptional C++ - Victor Ciura](exceptional_cxx-victor_ciura)
