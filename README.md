@@ -18,6 +18,8 @@ Slides and resources from CPPP 2021
 
 [Using C++ as a C on steroids - Serge Guelton](using_cxx_as_a_c_on_steroids-serge_guelton)
 
+[SIMD in C++20 - EVE of a new Era - Joël Falcou](simd_in_cxx20__eve_of_a_new_era-joël_falcou)
+
 ### Produce
 
 [Exceptional C++ - Victor Ciura](exceptional_cxx-victor_ciura)
