@@ -34,6 +34,8 @@ Slides and resources from CPPP 2021
 
 [The Performance Price of Virtual Functions - Ivica Bogosavljevic](the_performance_price_of_virtual_functions-ivica_bogosavljevic)
 
+[Why you should move your legacy code to smart pointers. - Sébastien Gonzalve](why_you_should_move_your_legacy_code_to_smart_pointers_-sébastien_gonzalve)
+
 ### Progress
 
 [Just Enough Assembly for Compiler Explorer - Anders Schau Knatten](just_enough_assembly_for_compiler_explorer-anders_schau_knatten)
@@ -45,6 +47,8 @@ Slides and resources from CPPP 2021
 [Constructors and destructors: A few things you might want to know - Pavel Novikov](constructors_and_destructors-pavel_novikov)
 
 [Performance is not (only) about micro-optimizations! - Clément Grégoire](perf_not_only_about_microopt-clement_gregoire)
+
+[Safer multithreading programming with C++ - Sébastien Gonzalve](safer_multithreading_programming_with_cxx-sébastien_gonzalve)
 
 [Parameterized testing with GTest - Sandor Dargo](parameterized_testing_with_gtest-sandor_dargo)
 
