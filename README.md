@@ -38,6 +38,8 @@ Slides and resources from CPPP 2021
 
 [Why you should move your legacy code to smart pointers. - Sébastien Gonzalve](why_you_should_move_your_legacy_code_to_smart_pointers_-sébastien_gonzalve)
 
+[Our Adventure building a massively scalable C++ remote compiler cloud - Damien Buhl](our_adventure_building_a_massively_scalable_cxx_remote_compiler_cloud-damien_buhl)
+
 ### Progress
 
 [Just Enough Assembly for Compiler Explorer - Anders Schau Knatten](just_enough_assembly_for_compiler_explorer-anders_schau_knatten)
@@ -57,4 +59,3 @@ Slides and resources from CPPP 2021
 [Correctly Calculating `min`, `max`, and More - Walter E Brown](correctly_calculating_min_max_and_more-walter_e_brown)
 
 ## Others
-
