@@ -36,6 +36,8 @@ Slides and resources from CPPP 2021
 
 [Just Enough Assembly for Compiler Explorer - Anders Schau Knatten](just_enough_assembly_for_compiler_explorer-anders_schau_knatten)
 
+[What Classes we Design and How - Peter Sommerlad](what_classes_we_design_and_how-peter_sommerlad)
+
 [A Series of Unfortunate Bugs - Satabdi Das](a_series_of_unfortunate_bugs-satabdi_das)
 
 [Constructors and destructors: A few things you might want to know - Pavel Novikov](constructors_and_destructors-pavel_novikov)
