@@ -6,6 +6,8 @@ Slides and resources from CPPP 2021
 
 [C++'s Superpower - Matt Godbolt](cxxs_superpower-matt_godbolt)
 
+[Iterators and Ranges: Comparing C++ to D, Rust, and Others - Barry Revzin](iterators_and_ranges_comparing_cxx_to_d_rust_and_others-barry_revzin)
+
 ## Presentations
 
 ### Push Forward
@@ -49,3 +51,4 @@ Slides and resources from CPPP 2021
 [Correctly Calculating `min`, `max`, and More - Walter E Brown](correctly_calculating_min_max_and_more-walter_e_brown)
 
 ## Others
+
