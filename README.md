@@ -30,6 +30,8 @@ Slides and resources from CPPP 2021
 
 [Exceptional C++ - Victor Ciura](exceptional_cxx-victor_ciura)
 
+[Cross-Platform Development with CMake - Julien Jomier](cross_platform_development_with_cmake-julien_jomier)
+
 [How I learned to stop worrying and love MISRA - Loïc Joly](how_i_learned_to_stop_worrying_and_love_misra-loic_joly)
 
 [The Performance Price of Virtual Functions - Ivica Bogosavljevic](the_performance_price_of_virtual_functions-ivica_bogosavljevic)
