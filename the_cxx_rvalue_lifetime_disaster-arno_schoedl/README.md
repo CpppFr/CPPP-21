@@ -1,0 +1,9 @@
+# The C++ rvalue lifetime disaster
+
+# Arno Schoedl
+
+Rvalue references have been with us since C++11. They have originally been introduced to make moving objects more efficient: the object an rvalue reference references is assumed to go out of scope soon and thus may have its resources scavenged without harm. The C++ standard library, for example std::cref or std::ranges, makes use of yet another aspect of rvalue references: since they go out of scope soon, it is assumed unsafe to hold on to them beyond the scope of the current function, while lvalue references are considered safe. We, too, found this assumption to be very useful for smart memory management, in particular in generic code. Unfortunately, the C++ language itself violates this assumption in at least two places. First, rvalues bind to const&. This means that innocent-looking functions taking a parameter by const& and passing it through in some way silently convert rvalues to lvalue references, hiding any lifetime limitation of the rvalues. std::min/max are two such examples. Worse still, every accessor member function returning a const& to a member suffers from this problem. Second, temporary lifetime extension is meant to make binding a temporary to a reference safe by extending the lifetime of the temporary. But this only works as long as the temporary is still a prvalue. If the temporary has been passed through a function, even it has been correctly passed through by rvalue reference, lifetime extension will no longer be invoked and we get a dangling reference. These problems are not merely theoretical. We have had hard-to-find memory corruption in our code because of these problems. In this talk, I will describe the problems in detail, present our library-only approach to mitigate the problems, and finally, make an impossible-to-ever-get-into-the-standard proposal of how to put things right.
+
+## Slides
+
+[The C++ rvalue lifetime disaster - Arno Schoedl](slides.pdf)

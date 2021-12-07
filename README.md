@@ -10,6 +10,8 @@ Slides and resources from CPPP 2021
 
 ### Push Forward
 
+[The C++ rvalue lifetime disaster - Arno Schoedl](the_cxx_rvalue_lifetime_disaster-arno_schoedl)
+
 [ctbench: compile time benchmarking for Clang - Jules Pénuchot](ctbench_compile_time_benchmarking_for_clang-jules_pénuchot)
 
 [The foundation of C++ atomics: The knowledge you need to correctly use C++ atomics - Filipe Mulonde](the_foundation_of_cxx_atomics_the_knowledge_you_need_to_correctly_use_cxx_atomics-filipe_mulonde)
